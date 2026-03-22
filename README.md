@@ -1,5 +1,8 @@
 # AI Research Intelligence Platform
 
+LIVE_App : https://agenticresearchragmodel-znuiwncezqmhtdbczvz3im.streamlit.app/
+
+
 Enterprise‑style demo project implementing an **Agentic RAG system**.
 
 Features
