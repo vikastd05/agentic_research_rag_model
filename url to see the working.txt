@@ -1,0 +1,2 @@
+Network : http://192.168.29.159:8501
+Local url : http://localhost:8501
